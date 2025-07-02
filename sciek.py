@@ -1,1 +1,1 @@
-print("Testujemy dzialanie tego scieka jakim jest gitXD")
+print("Testujemy dzialanie tego scieka jakim jest gitXD W")
