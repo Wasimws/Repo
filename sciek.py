@@ -1,0 +1,1 @@
+print("Testujemy dzialanie tego scieka jakim jest gitXD")
