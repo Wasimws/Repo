@@ -1,3 +1,2 @@
-# Projekt Git Start  
-#To mój pierwszy projekt z użyciem Gita i GitHuba.  
-Uczę się podstaw pracy z repozytoriami.
+# Wypiłbym piwko
+ale n moge dzis 
